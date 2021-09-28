@@ -1,3 +1,5 @@
+[![Math-Util with CI | © 2020 by giao.lang](https://github.com/damduy/math-util-testing/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/damduy/math-util-testing/actions/workflows/math-util-ci.yml)
+
 # Welcome to math-util-testing
 
 ### You will find in this repo the following stuff:
