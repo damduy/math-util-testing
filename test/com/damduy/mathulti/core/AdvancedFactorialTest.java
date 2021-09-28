@@ -46,7 +46,7 @@ public class AdvancedFactorialTest {
                                     {2,2},
                                     {3,6},
                                     {4,24},
-                                    {6,720},
+                                    {6,7720}, //co tinh mau do xem server mau do ko
                                     {5, 120}, //bo sung de test ci
                                 };
     }
